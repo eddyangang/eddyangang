@@ -1,6 +1,6 @@
 ### Hi 👋
 
-This is Eddy Yang, I am a 💻 Fullstack Web Developer.
+This is Eddy Yang, I am a 💻 Fullstack Web Developer. <br/>
 🔭 I’m currently learning machine learning and creating useful applications using machine learning to simplify life. 
 <!--
 **eddyangang/eddyangang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
