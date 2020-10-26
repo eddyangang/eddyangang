@@ -17,7 +17,10 @@
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/eddyangang)
 
 ## Projects
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddyangang&repo=ML_Diabetes&theme=tokyonight" width="45%" height="100%"/>](https://github.com/eddyangang/ML_Diabetes)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddyangang&repo=article_summary&theme=highcontrast" width="45%" height="100%"/>](https://github.com/eddyangang/ML_Diabetes)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddyangang&repo=ML_Diabetes&theme=tokyonight" width="45%" height="100%"/>](https://github.com/eddyangang/article_summary)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddyangang&repo=portfolio&theme=radical" width="45%" height="100%"/>](https://github.com/eddyangang/portfolio)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddyangang&repo=Quizzky&theme=vision-friendly-dark" width="45%" height="100%"/>](https://github.com/eddyangang/Quizzly)
 
 <!--
 **eddyangang/eddyangang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
