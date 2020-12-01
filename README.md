@@ -8,7 +8,7 @@
 - **Framework -** Flask, React, Express.js
 - **Testing Framework -** Jester.js
 - **Database -** MongoDB, MySQL, SQLite
-- **Programming Language -** Python, Javascript Java
+- **Programming Language -** Python, Javascript
 - **Other -** REST API, Agile Development
 
 - 📫 Reach out to me :v: <br>
