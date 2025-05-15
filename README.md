@@ -19,8 +19,9 @@
 ## Projects
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddyangang&repo=ai-scraper&theme=vision-friendly-dark" width="45%" height="100%"/>](https://github.com/eddyangang/ai-scraper)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddyangang&repo=article_summary&theme=highcontrast" width="45%" height="100%"/>](https://github.com/eddyangang/ML_Diabetes)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddyangang&repo=twitter-clone&theme=tokyonight" width="45%" height="100%"/>](https://github.com/eddyangang/twitter-clone)
+
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddyangang&repo=portfolio-2025&theme=radical" width="45%" height="100%"/>](https://github.com/eddyangang/portfolio-2025)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddyangang&repo=twitter-clone&theme=tokyonight" width="45%" height="100%"/>](https://github.com/eddyangang/twitter-clone)
 
 <!--
 **eddyangang/eddyangang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
