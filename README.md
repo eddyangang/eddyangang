@@ -1,14 +1,14 @@
 ### Hi 👋
 
 😄 I'm Eddy Yang. <br/>
-💻 I am a Fullstack Web Developer. <br/>
-🔭 I’m currently learning machine learning and creating useful applications using machine learning to simplify life. 
+💻 I am a Fullstack Web Developer and Software Development Engineer in Test. <br/>
+🔭 I’m currently looking for new positions in SDET and/or Fullstack Web development
 
 ## Tech Stack
-- **Framework -** Flask, React, Express.js
-- **Testing Framework -** Jester.js
+- **Framework -** Flask, React, Express.js, Next.js
+- **Testing Framework -** Jester.js Cypress, Selenium
 - **Database -** MongoDB, MySQL, SQLite
-- **Programming Language -** Python, Javascript
+- **Programming Language -** Python, Javascript, TypeScript, Java
 - **Other -** REST API, Agile Development
 
 - 📫 Reach out to me :v: <br>
